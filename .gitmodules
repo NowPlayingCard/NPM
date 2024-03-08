@@ -1,0 +1,11 @@
+[submodule "API"]
+path = API
+url = ssh://git@github.com/NowPlayingCards/NPMAPI.git
+
+[submodule "Common"]
+path = Common
+url = ssh://git@github.com/NowPlayingCards/NPMCommon.git
+
+[submodule "Socket"]
+path = Socket
+url = ssh://git@github.com/NowPlayingCards/NPMSocket.git
